@@ -1,6 +1,6 @@
 # 3
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a book collection app built with Vue.js and Vite, with a backend web service for books published with in Render. In this app you can add and delete books to your collection with the help of Fetch API, with https://lab22fullstack.onrender.com/books. 
 
 ## Recommended IDE Setup
 
