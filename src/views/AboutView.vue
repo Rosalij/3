@@ -1,8 +1,11 @@
 <template  >
   <h1>About this project</h1> 
     <p>This project is a book collection app built with Vue.js and Vite, with a backend web service for books published with in Render.
-    I thought it would be a good idea to create a book collection app.
-    I thought Vue was simple and easy to understand when everything is divided in components.
+    I thought it would be a good idea to create a book collection app. Vue was installed with the commands: npm create vue@latest <br>
+cd project-name
+<br>npm install
+<br>npm run dev
+    <br>I thought Vue was simple and easy to understand when everything is divided in components.
     It takes a while to learn but simple once you understand. It's something i would like to work with more.
     The harder thing about Vue was learning emits, twoway binding and props, which was new.
     I think Vue makes it easy to create easily understandable and maintainable code for HTML, CSS and JavaScript.</p>
